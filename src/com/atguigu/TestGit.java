@@ -10,5 +10,7 @@ public class TestGit {
 		System.out.println("4444");
 		System.out.println("444");
 		System.out.println("444444");
+		System.out.println("444444");
+		System.out.println("444444");
 	}
 }
